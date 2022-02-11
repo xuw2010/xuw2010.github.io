@@ -11,7 +11,7 @@
 现有单身优质美女需要找男朋友：
 要求：
 
-![1](liyingr.jpg)
-![2](zhengjy.jpg)
-![3](aotiany.jpg)
-![4](liy.jpg)
+![1](liyingr.jpg "李同学")
+![2](zhengjy.jpg "郑同学")
+![3](aotiany.jpg "敖同学")
+![4](liy.jpg "李同学")
