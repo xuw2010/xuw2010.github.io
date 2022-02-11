@@ -7,10 +7,11 @@
 4. [矩阵论讲义2021秋.pdf](/矩阵论讲义2021秋.pdf), 更新了部分习题.
 
 
+----
 # 相亲角
 犹豫就会败北，加她们不后悔！
 
-![1](liyingr.jpg "李同学")
-![2](zhengjy.jpg "郑同学")
-![3](aotiany.jpg "敖同学")
-![4](liy.jpg "李同学")
+![1](liyingr.jpg "李同学"){:height="50%" width="50%"}
+![2](zhengjy.jpg "郑同学"){:height="50%" width="50%"}
+![3](aotiany.jpg "敖同学"){:height="50%" width="50%"}
+![4](liy.jpg "李同学"){:height="50%" width="50%"}
