@@ -12,3 +12,6 @@
 要求：
 
 ![1](liyingr.jpg)
+![2](zhengjy.jpg)
+![3](aotiany.jpg)
+![4](liy.jpg)
