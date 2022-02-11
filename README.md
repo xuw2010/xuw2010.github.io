@@ -11,7 +11,7 @@
 # 相亲角
 犹豫就会败北，加她们不后悔！
 
-姓名|技能
+加我|加我
 --|:--:
 ![1](liyingr.jpg "李同学"){:height="50%" width="50%"} | ![2](zhengjy.jpg "郑同学"){:height="50%" width="50%"}
 ![3](aotiany.jpg "敖同学"){:height="50%" width="50%"} | ![4](liy.jpg "李同学"){:height="50%" width="50%"}
