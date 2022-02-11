@@ -14,12 +14,12 @@
 >李同学
 >>![1](liyingr.jpg "李同学"){:height="50%" width="50%"}
 
->a
+>郑同学
 >>![2](zhengjy.jpg "郑同学"){:height="50%" width="50%"}
 
->a
+>敖同学
 >>![3](aotiany.jpg "敖同学"){:height="50%" width="50%"}
 
->a
+>李同学
 >>![4](liy.jpg "李同学"){:height="50%" width="50%"}
 
